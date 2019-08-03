@@ -7,6 +7,7 @@
 如此兼顾下来整个体系很是杂乱，智能说安排好时间再去写、记录。
 
 目前的网页:
+```
 h5: https://www.arginsen.com               //托管在腾讯云开发者平台
 
 静态主页：https://arginsen.com              //托管在github,作为github pages发布
@@ -16,6 +17,7 @@ h5: https://www.arginsen.com               //托管在腾讯云开发者平台
 学习笔记：https://arginsen.com/blog         //托管在github pages的/blog/目录下
 
 个人随笔：https://arginsen.com/essay        //托管在github pages的/essay/目录下
+```
 
 更新自2019/8/3
 
